@@ -1,0 +1,26 @@
+Instalasi Server Local (Offline)
+- Download dan instal XAMPP v3.2.1 atau dengan PHP 5.6
+- Jalankan XAMPP untuk Apache dan MySQL
+
+Instalasi
+- Pindahkan folder SPK-VIKOR-NATIVE ke folder htdocs pada XAMPP (misal C:\xampp\htdocs)
+
+Buat Database
+- Buka browser dan ketikkan localhost/phpmyadmin
+- Buat database dengan nama spk_vikor_native
+- Kemudian pilih tab import
+- Import file yang ada pada folder Database
+
+Jalankan Program Aplikasi
+- Buka browser dan ketikkan localhost/SPK-VIKOR-NATIVE
+
+Akses Login
+Admin
+Username = admin
+Password = admin
+
+User
+Username = user
+Password = user
+
+====Tested on XAMPP v3.2.1 or PHP Versi: 5.6.12====
